@@ -48,7 +48,3 @@
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="godaddy" src="https://img.shields.io/badge/godaddy-%23039BE5.svg?style=for-the-badge&logo=godaddy"/>
  </div><br/>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bajrang-gour&theme=dark" alt="jigar-sable" /></p>
-  </div>
