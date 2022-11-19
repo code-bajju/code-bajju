@@ -1,7 +1,7 @@
-<img src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif" target="_blank">
+<div align = "center"><img src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif" target="_blank">
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/bajrang-gour/" target="_blank"> Bajrang Gour</a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
-
+</div>
 - 👨‍💻 --Script Kiddie-- 🚀
 
 - 👨‍💻 --Immature--
@@ -11,7 +11,7 @@
 - 👨‍💻 Check out my personal portfolio : **<a href="https://bajranggour.tech/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
-
+<div align="center">
 <h3 align="left">Web Tech Stack:</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -59,4 +59,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en" alt="code-bajju" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-bajju&" alt="code-bajju" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-bajju&" alt="code-bajju" /></p></div>
