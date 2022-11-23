@@ -23,27 +23,27 @@
 <br>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
-<h3 align="left">Languages :</h3>
-<div align="left">
+<h3 align="center">Languages :</h3>
+<div align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
-<h3 align="left">Databases :</h3>
-<div align="left">
+<h3 align="center">Databases :</h3>
+<div align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 
-<h3 align="left">Hosting :</h3>
-<div align="left">
+<h3 align="center">Hosting :</h3>
+<div align="center">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="godaddy" src="https://img.shields.io/badge/godaddy-%23039BE5.svg?style=for-the-badge&logo=godaddy"/>
  </div><br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-bajju" alt="code-bajju" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-bajju" alt="code-bajju" /></a> </p>
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center">
