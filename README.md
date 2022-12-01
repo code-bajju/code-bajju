@@ -58,5 +58,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-bajju&show_icons=true&locale=en&layout=compact" alt="code-bajju" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en" alt="code-bajju" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-bajju&" alt="code-bajju" /></p></div>
+</div>
