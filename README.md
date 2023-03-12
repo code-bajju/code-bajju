@@ -1,6 +1,6 @@
 <div align = "center"><img src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif" style="width="300" height="250";" target="_blank">
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/bajrang-gour/" target="_blank"> Bajrang Gour</a></h1>
-<h3 align="center"> <img align ="center" src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<h3 align="center"> <img align ="center" src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I+am+into+Backend+%3A)" /> </h3>
 
 </div>
 
