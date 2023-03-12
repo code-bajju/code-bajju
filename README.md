@@ -11,6 +11,10 @@
 - 👨‍💻 Check out my personal portfolio : **<a href="https://code-bajju.github.io/bajrang-portfolio/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
+
+### About Me
+"My Name is Bajrang & I'm into Backend Development and engineering student at MMDU Mullana, with a strong passion for creating robust and scalable web applications. With my expertise in server-side programming and database management, I have helped various clients build dynamic and efficient web applications. As a continuous learner, I stay updated with the latest backend technologies and techniques to ensure the highest level of functionality and user experience. When I'm not developing, I enjoy sharing my knowledge and experience through my blog. Let's connect and discover how we can work together to bring your web application to the next level."
+
 <div align="center">
 <h3 align="center">Web Tech Stack:</h3>
 <div align="center">
