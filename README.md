@@ -47,7 +47,7 @@
   <img alt="godaddy" src="https://img.shields.io/badge/godaddy-%23039BE5.svg?style=for-the-badge&logo=godaddy"/>
  </div><br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-bajju" alt="code-bajju" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=code-bajju&theme=onedark" alt="code-bajju" /></a> </p>
 
 <h3 align="Center">Connect with me: </h3>
 <p align="center">
@@ -59,7 +59,7 @@
 <a href="https://www.codechef.com/users/code_bajju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_bajju" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-bajju&show_icons=true&locale=en&layout=compact" alt="code-bajju" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-bajju&show_icons=true&locale=en&layout=compact&theme=dark" alt="code-bajju" /></p>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=code-bajju&theme=dark" alt="code-bajju" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en" alt="code-bajju" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en&theme=dark" alt="code-bajju" /></p>
 </div>
