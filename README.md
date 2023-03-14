@@ -1,4 +1,5 @@
-<div align="center"><img src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif" style="filter: invert(100%); width: 300px; height: 250px;"></div><h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/bajrang-gour/" target="_blank"> Bajrang Gour</a></h1>
+<div align="center"><img src="https://miro.medium.com/max/828/1*IRGHmiGsa16stedQvIaZfw.gif" style="filter: invert(100%) sepia(100%) invert(100%) brightness(100%) contrast(100%); width: 300px;"></div>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/bajrang-gour/" target="_blank"> Bajrang Gour</a></h1>
 <h3 align="center"> <img align ="center" src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I+am+into+Backend+%3A)" /> </h3>
 
 </div>
