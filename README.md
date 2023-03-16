@@ -4,7 +4,7 @@
 
 </div>
 
-## Appicorns'22 2nd Runner Up | Web Designer & Developer| Google Developer Student Club
+## Appicorns'22 2nd Runner Up | Web Designer & Developer | Google Developer Student Club
 
 - 💬 Ask me about **Web Development,Java, DBMS, MySQL, PHP & Freelancing **
 
