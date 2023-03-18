@@ -1,6 +1,5 @@
 
 <h1 align="">👋 Hi, I'm <a href="https://www.linkedin.com/in/bajrang-gour/" target="_blank"> Bajrang Gour</a></h1>
-<h3 align=""> <img align ="" src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I+am+into+Backend+%3A)" /> </h3>
 
 </div>
 
