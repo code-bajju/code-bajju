@@ -1,4 +1,3 @@
-
 <h1 align="">👋 Hi, I'm <a href="https://www.linkedin.com/in/bajrang-gour/" target="_blank"> Bajrang Gour</a></h1>
 
 </div>
