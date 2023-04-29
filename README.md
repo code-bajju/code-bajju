@@ -2,7 +2,7 @@
 
 </div>
 
-## Appicorns'22 2nd Runner Up | Web Designer & Developer | Google Developer Student Club
+## Appicorns'22 2nd Runner Up | Hackverse 2.0 Winner | Web Designer & Developer | Google Developer Student Club
 
 - 💬 Ask me about **Web Development,Java, DBMS, MySQL, PHP & Freelancing **
 
@@ -61,3 +61,5 @@
 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en&theme=dark" alt="code-bajju" /></p>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
