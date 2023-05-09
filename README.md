@@ -4,7 +4,7 @@
 
 ## Appicorns'22 2nd Runner Up | Hackverse 2.0 Winner | Web Designer & Developer | Google Developer Student Club
 
-- 💬 Ask me about **Web Development,Java, DBMS, MySQL, PHP & Freelancing **
+- 💬 Ask me about Web Development,App Development,Java, DBMS, MySQL, PHP & Freelancing
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://code-bajju.github.io/bajrang-portfolio/" target="_blank">Portfolio</a>**
 
