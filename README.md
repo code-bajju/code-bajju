@@ -62,4 +62,3 @@
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en&theme=dark" alt="code-bajju" /></p>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=code-bajju&theme=dark&hide_border=true)](https://git.io/streak-stats)
