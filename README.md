@@ -59,7 +59,7 @@
 </p>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-bajju&show_icons=true&locale=en&layout=compact&theme=dark" alt="code-bajju" /></p>
 
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en&theme=dark" alt="code-bajju" /></p>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=code-bajju&theme=dark&border_radius=12.6&date_format=M%20j%5B%2C%20Y%5D&type=png)](https://git.io/streak-stats)
+
