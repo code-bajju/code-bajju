@@ -7,7 +7,7 @@
 
 - 💬 Ask me about Web Development,App Development,Java, DBMS, MySQL, PHP & Freelancing
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://code-bajju.github.io/bajrang-portfolio/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="bajranggour.tech" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
