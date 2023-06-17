@@ -61,5 +61,6 @@
 
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=code-bajju&theme=dark&border_radius=12.6&date_format=M%20j%5B%2C%20Y%5D&type=png)](https://git.io/streak-stats)
 
 
