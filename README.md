@@ -3,7 +3,7 @@
 </div>
 
 
-## Appicorns'22 🥉🏆| Hackverse 2.0 🥇🏆| Technophilia🥇🏆 | NTD Project-exhibition🥈🏆 | Full stack Developer | Google Developer Student Club | Freelancer | Java | Flutter | PHP | MYSQL | Python | Learning AI ML |
+## Appicorns'22 🥉🏆| Hackverse 2.0 🥇🏆| Technophilia🥇🥈🏆 | NTD Project-exhibition🥈🏆 | Full stack Developer | Google Developer Student Club | Freelancer | Java | Flutter | PHP | MYSQL | Python | Learning AI ML |
 
 - 💬 Ask me about Web Development,App Development,Java, DBMS, MySQL, PHP & Freelancing
 
