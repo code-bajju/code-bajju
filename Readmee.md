@@ -4,16 +4,16 @@
 <h2 align="center">Appicorns'22 🥉🏆 Hackverse 2.0 🥇🏆<br>Technophilia🥇🥈🏆 • NTD Project-exhibition🥈🏆 
 <h1 align="center">About Me</h1>
 <h3 align="center">I'm a front-end & back-end Developer and for the most part, I am passionate about coding. I can develop Fully Functional projects with Reports OR a Client Website with professional database architecture.</h3>
-- 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://bajranggour.tech](https://bajranggour.tech)
+<h4 align="center">
 
-- 💬 Ask me about **JavaScript , PHP , MySQL and Dart**
 
-- 📫 How to reach me **11212766@mmec.mmdu.org**
+👨‍💻 All of my projects are available at [https://bajranggour.tech](https://bajranggour.tech)
 
-- ⚡ Fun fact **My code speaks in more languages than I do🚀😄!🌐**
 
+⚡ Fun fact **My code speaks in more languages than I do🚀😄🌐**
+
+<h4>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/bajjuhydra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bajjuhydra" height="30" width="40" /></a>
@@ -110,10 +110,3 @@
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-bajju&show_icons=true&locale=en&layout=compact" alt="code-bajju" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-bajju&show_icons=true&locale=en" alt="code-bajju" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-bajju&" alt="code-bajju" /></p>
