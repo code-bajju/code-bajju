@@ -11,7 +11,7 @@
 👨‍💻 All of my projects are available at [https://bajranggour.tech](https://bajranggour.tech)
 
 
-⚡ Fun fact **My code speaks in more languages than I do🚀😄🌐**
+⚡ Fun fact : **My code speaks in more languages than I do🚀😄🌐**
 
 <h4>
 <h3 align="center">Connect with me:</h3>
