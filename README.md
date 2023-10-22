@@ -4,7 +4,10 @@
 <h2 align="center">Appicorns'22 🥉🏆 Hackverse 2.0 🥇🏆<br>Technophilia🥇🥈🏆 • NTD Project-exhibition🥈🏆 
 <h1 align="center">About Me</h1>
 <h3 align="center">I'm a front-end & back-end Developer and for the most part, I am passionate about coding. I can develop Fully Functional projects with Reports OR a Client Website with professional database architecture.</h3>
+<a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
+
  <div align="center">
+  
   
 |                   **Professional Experience**                  |   **Period**       |
 |:------------------------------------------------------------:|:--------:|
