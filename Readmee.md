@@ -33,16 +33,16 @@
 ```java
 import universe.milky_way.solar_system.earth.asia.southasia.india.pune;
 
-public class VaishnaviKale {
-    private String name = "Vaishnavi Kale";
-    private String pronouns = {"she, her, hers"};
-    private String[] code = {"Java", "Python", "JavaScript", "C", "SQL", "R"};
-    private String[] framework = {"React JS", "Tailwind CSS"};
-    private String[] devOps = {"Docker"};
+public class BajrangGour {
+    private String name = "Bajrang Gour";
+    private String pronouns = {"he, him"};
+    private String[] code = {"Java", "Dart", "JavaScript", "PHP", "SQL"};
+    private String[] framework = {"React JS", "Tailwind CSS","Bootstrap","AngularJS","Flutter","NodeJS"};
+    private String[] devOps = {"Github","POSTMAN","Bash"};
     private String[] tools = {"Figma", "Android Studio"};
-    private String[] lookingToGetStartedWith = {"Web3"};
-    private String[] askMeAbout = {"Web Development", "Machine Learning", "DevOps", "Data Structures"};
-    private String funFact = "I am a night owl and Clinophile";
+    private String[] lookingToGetStartedWith = {"Javascript"};
+    private String[] askMeAbout = {"Web Development", "Machine Learning", "DevOps", "PHP"};
+    private String funFact = "My code speaks in more languages than I do🚀😄🌐";
 
     public static void main(String[] args) {
         VaishnaviKale vaishnaviKale = new VaishnaviKale();

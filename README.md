@@ -2,8 +2,7 @@
 
 
 <h2 align="center">Appicorns'22 🥉🏆 Hackverse 2.0 🥇🏆<br>Technophilia🥇🥈🏆 • NTD Project-exhibition🥈🏆 
-<h1 align="center">About Me</h1>
-<h3 align="center">I'm a front-end & back-end Developer and for the most part, I am passionate about coding. I can develop Fully Functional projects with Reports OR a Client Website with professional database architecture.</h3>
+
 <a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
 <p align="center">
 <img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
@@ -11,20 +10,22 @@
  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
  </p>
 
- <div align="center">
-  
+## About me
 
-|                   **Professional Experience**                  |   **Period**       |
-|:------------------------------------------------------------:|:--------:|
-| Web Developer at Softhuge IT Solutions                        | 2020 – Present |
-| Freelancer on Fiverr                                          | 2020 – Present |
+```java
+import universe.milky_way.solar_system.earth.asia.southasia.india.ambala.mmdu-mullana;
 
-|                   **Volunteer Experience**                  |   **Period**       |
-|:------------------------------------------------------------:|:--------:|
-| Core Team Member at GOOGLE DSC(MMDU)                       | Oct-2022 – Present |
-
-
-</div>
+public class BajrangGour {
+    private String name = "Bajrang Gour";
+    private String pronouns = {"he, him"};
+    private String[] code = {"Java", "Dart", "JavaScript", "PHP", "SQL"};
+    private String[] framework = {"React JS", "Tailwind CSS","Bootstrap","AngularJS","Flutter","NodeJS"};
+    private String[] devOps = {"Github","POSTMAN","Bash"};
+    private String[] tools = {"Figma", "Android Studio"};
+    private String[] lookingToGetStartedWith = {"Javascript"};
+    private String[] askMeAbout = {"Web Development", "Machine Learning", "DevOps", "PHP"};
+    private String funFact = "My code speaks in more languages than I do🚀😄🌐";
+ ```
 <h4 align="center">
 
 
