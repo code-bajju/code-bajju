@@ -2,7 +2,7 @@
 
 
 <h2 align="center">Appicorns'22 🥉🏆 Hackverse 2.0 🥇🏆<br>Technophilia🥇🥈🏆 • NTD Project-exhibition🥈🏆 
-
+<br><br>
 <a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
 <p align="center">
 <img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
@@ -28,11 +28,20 @@ public class BajrangGour {
  ```
 <h4 align="center">
 
+ <div>
+	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
+ <p align="center">
+	 
+ <img src = "https://github-readme-activity-graph.vercel.app/graph?username=code-bajju&theme=merko"/>
+ 
+
+
+ </div>
+
+<br>
 
 👨‍💻 All of my projects are available at [https://bajranggour.tech](https://bajranggour.tech)
 
-
-⚡ Fun fact : **My code speaks in more languages than I do🚀😄🌐**
 
 <h4>
 
