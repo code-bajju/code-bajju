@@ -40,11 +40,10 @@ public class BajrangGour {
 
 <br>
 
-👨‍💻 All of my projects are available at [https://bajranggour.tech](https://bajranggour.tech)
 
 
 <h4>
-
+<!-- 
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -144,4 +143,4 @@ public class BajrangGour {
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
-</p>
+</p> -->
