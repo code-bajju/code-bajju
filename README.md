@@ -40,7 +40,9 @@ public class BajrangGour {
 
 <br>
 
+👨‍💻 All of my projects are available at [https://bajranggour.tech](https://bajranggour.tech)
 
+Thanks for visiting my profile. Have a nice day.👋
 
 <h4>
 <!-- 
