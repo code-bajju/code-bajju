@@ -13,7 +13,7 @@
 ## About me
 
 ```java
-import universe.milky_way.solar_system.earth.asia.southasia.india.ambala.mmdu-mullana;
+import universe.milky_way.solar_system.earth.asia.northasia.india.ambala.mmdu-mullana;
 
 public class BajrangGour {
     private String name = "Bajrang Gour";
