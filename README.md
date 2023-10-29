@@ -31,7 +31,7 @@ public class BajrangGour {
 <h4 align="center">
 
  <div>
-	 <div><p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</p></div>
+	 <div><p>Stats 🔥</p></div>
  <p align="center">
 	 
  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=code-bajju&theme=merko"/>
