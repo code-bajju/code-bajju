@@ -28,14 +28,19 @@ public class BajrangGour {
 
 // Upar wala code run karke mat dekhna Error Aajayege 😅 
  ```
-<h4 align="center">
 
+ 
+<h4 align="center">
  <div>
 	 <div><p>Stats 🔥</p></div>
  <p align="center">
 	 
  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=code-bajju&theme=merko"/>
- 
+ <p align="center">
+    <a href="https://github.com/code-bajju/code-bajju">
+        <img src="https://github-profile-trophy.vercel.app/?username=code-bajju&column=-1&theme=matrix&layout=compact"width="95%"/> 
+</p>
+  
 
 
  </div>
