@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bajrang Gour</h1>
 
 
-<h2 align="center">Appicorns'22 🥉🏆 Hackverse 2.0 🥇🏆<br>Technophilia🥇🥈🏆 • NTD Project-exhibition🥈🏆 
+<h2 align="center">Appicorns'22 🥉🏆 • Hackverse 2.0 🥇🏆<br>Technophilia🥇🥈🏆 • NTD Project-exhibition🥈🏆 
 <br><br>
 <a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
 <p align="center">
