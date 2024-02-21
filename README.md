@@ -5,9 +5,8 @@
 <br><br>
 <a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
 <p align="center">
-<img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="60" height="60px">
 <br>
- <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
+
  </p>
 
 ## About me
@@ -35,7 +34,7 @@ public class BajrangGour {
 	 <div><p>Stats 🔥</p></div>
  <p align="center">
 	 
- <img src = "https://github-readme-activity-graph.vercel.app/graph?username=code-bajju&theme=merko"/>
+ 
  <p align="center">
     <a href="https://github.com/code-bajju/code-bajju">
         <img src="https://github-profile-trophy.vercel.app/?username=code-bajju&column=-1&theme=matrix&layout=compact"width="95%"/> 
