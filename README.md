@@ -1,7 +1,7 @@
 ## 👨🏾‍💻 About Me:
 I'm a developer who spends more time talking to computers than to people.
 
-## 🎊 Achievement:
+## 🎊 Achievements:
 
 | Achievement                                                      | Event/Organization                |
 |------------------------------------------------------------------|-----------------------------------|
