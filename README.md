@@ -2,50 +2,31 @@
 </h3>
 
 
-<h2 align="center">SIH'23 🏆 • 4+ Hackathon Winner 🏆 • Google DSC • Full Stack Developer
+<h2 align="center">SIH'23 🏆 • 4+ Hackathon Winner 🏆 • Google DSC • Full Stack Developer </h2>
 <br><br>
-<a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
+<!-- <a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
 <p align="center">
 <br>
-
  </p>
-
-
-
- 
 <h4 align="center">
  <div>
 	 <div><p>Stats 🔥</p></div>
  <p align="center">
-	 
- 
  <p align="center">
     <a href="https://github.com/code-bajju/code-bajju">
         <img src="https://github-profile-trophy.vercel.app/?username=code-bajju&column=-1&theme=matrix&layout=compact"width="95%"/> 
 </p>
-  
-
-
- </div>
-
+</div>
 <br>
-
 👨‍💻 All of my projects are available at [https://bajranggour.tech](https://bajranggour.tech)
-
 Thanks for visiting my profile. Have a nice day.👋
-
 <h4>
 <!-- 
- 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/bajjuhydra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bajjuhydra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bajrang-gour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bajrang-gour" height="30" width="40" /></a>
 </p>
-
-
-
-
 <h3 align="center">Languages:</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -61,7 +42,6 @@ Thanks for visiting my profile. Have a nice day.👋
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 </p>
-
 <h3 align="center">Frameworks:</h3>
 <p align="center">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -86,7 +66,6 @@ Thanks for visiting my profile. Have a nice day.👋
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
 <h3 align="center">Tools:</h3>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -126,7 +105,6 @@ Thanks for visiting my profile. Have a nice day.👋
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
