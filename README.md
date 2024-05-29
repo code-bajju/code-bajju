@@ -1,9 +1,7 @@
-<h3 align="center">Hi 👋, I'm Bajrang Gour.
+<h3 align="center">Hi 👋, I'm <a href="www.bajranggour.tech">Bajrang Gour.</a> 
 </h3>
+<h2 align="center">SIH'23 🏆 • 4+ Hackathon Winner 🏆 • Google DSC • Front-end Developer </h2>
 
-
-<h2 align="center">SIH'23 🏆 • 4+ Hackathon Winner 🏆 • Google DSC • Full Stack Developer </h2>
-<br><br>
 <!-- <a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
 <p align="center">
 <br>
