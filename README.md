@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm <a href="www.bajranggour.tech">Bajrang Gour.</a> 
 </h3>
-<h2 align="center">SIH'23 🏆 • 4+ Hackathon Winner 🏆 • Google DSC • Front-end Developer </h2>
+<h2 align="center">SIH'23 🏆 • 4+ Hackathon Winner 🏆 • Google DSC • Blockchain Developer </h2>
 
 <!-- <a href = "https://holopin.io/@codebajju"><img src = "https://holopin.me/codebajju" alt=""/></a>
 <p align="center">
